@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Banner](https://img.shields.io/badge/🚀-独立开发者资源大全-blue)
-[![Stars](https://img.shields.io/github/stars/your-username/indie-dev-resources?style=social)](https://github.com/your-username/indie-dev-resources/stargazers)
+[![Stars](https://img.shields.io/github/stars/your-username/indie-dev-resources?style=social)](https://github.com/mari1995/DevOnABudget/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Contributors](https://img.shields.io/badge/贡献者-欢迎加入-orange)
 
